@@ -16,6 +16,6 @@ This graduate-level course explores the integration of multimedia and computatio
 
 |Wk|Date|Topic(s)|Lecture|Coding|Assignment|
 |--|--|--|--|--|--|
-|W01|Sept.4|Course overview| 💾 [Syllabus](https://github.com/MK316/F2024/raw/main/Multimedia/data/Syllabus_2024F_Multimedia.pages.pdf), <br>[Lesson01](https://github.com/MK316/F2024/blob/main/Multimedia/Lesson01.ipynb),|[pronouncenames](https://github.com/MK316/Spring2024/blob/main/DLTESOL/PronounceYourName.ipynb)|🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
+|W01|Sept.4|Course overview| 💾 [Syllabus](https://github.com/MK316/F2024/raw/main/Multimedia/data/Syllabus_2024F_Multimedia.pages.pdf), <br>[Lesson01](https://github.com/MK316/F2024/blob/main/Multimedia/Lesson01.ipynb),|[pronouncenames](https://github.com/MK316/Spring2024/blob/main/DLTESOL/PronounceYourName.ipynb)|🌱|
 |W02|Sept.11|||||
 |W15|June 20| Final Project |Group1, Group4||Final project|
