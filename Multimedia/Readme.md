@@ -30,4 +30,4 @@ This graduate-level course explores the integration of multimedia and computatio
 |W12|Dec. 04|||||
 |W13|Dec. 11|||||
 |W14|Dec. 18|||||
-|W15|Dec. 20| Final Project |Group1, Group4||Final project|
+|W15|TBA| Make-up Class (To be announced)|||||
