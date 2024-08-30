@@ -11,3 +11,6 @@ This graduate-level course explores the integration of multimedia and computatio
 + Gain foundational skills in Python for creating educational software.
 + Design and implement customized language learning and teaching activities.
 + Explore the use of Gradio and Hugging Face in developing interactive language learning apps.
+
+## 🔸 Weekly Schedule & Materials
+
