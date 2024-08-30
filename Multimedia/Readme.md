@@ -1,6 +1,6 @@
 # 🌱 Multimedia & English Education (Fall 2024)
 
-### Course Overview
+### 🔸 Course Overview
 
 This graduate-level course explores the integration of multimedia and computational tools in the teaching of the English language. Students will learn to utilize advanced technology platforms such as Gradio and Hugging Face, alongside interactive applications to enhance language learning and teaching. The course includes a practical introduction to Python coding at a basic level, designed specifically for language application design and the customization of teaching activities.
 
