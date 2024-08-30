@@ -18,16 +18,16 @@ This graduate-level course explores the integration of multimedia and computatio
 |--|--|--|--|--|--|
 |W01|Sept.4|Course overview| 💾 [Syllabus](https://github.com/MK316/F2024/raw/main/Multimedia/data/Syllabus_2024F_Multimedia.pages.pdf), <br>[Lesson01](https://github.com/MK316/F2024/blob/main/Multimedia/Lesson01.ipynb),|[pronouncenames](https://github.com/MK316/F2024/blob/main/Multimedia/PronounceYourName.ipynb)|🌱|
 |W02|Sept.11|||||
-|W03|Sept.11|||||
-|W04|Sept.11|||||
-|W05|Sept.11|||||
-|W06|Sept.11|||||
-|W07|Sept.11|||||
-|W08|Sept.11|||||
-|W09|Sept.11|||||
-|W10|Sept.11|||||
-|W11|Sept.11|||||
-|W12|Sept.11|||||
-|W13|Sept.11|||||
-|W14|Sept.11|||||
-|W15|June 20| Final Project |Group1, Group4||Final project|
+|W03|Sept.25|||||
+|W04|Oct.2|||||
+|W05|Oct.16|||||
+|W06|Oct.23|||||
+|W07|Oct.30|||||
+|W08|Nov.6|||||
+|W09|Nov.13|||||
+|W10|Nov.20|||||
+|W11|Nov.27|||||
+|W12|Dec.4|||||
+|W13|Dec.11|||||
+|W14|Dec.18|||||
+|W15|Dec.20| Final Project |Group1, Group4||Final project|
