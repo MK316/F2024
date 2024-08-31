@@ -1,4 +1,4 @@
-[3]# 🌱 Multimedia & English Education (Fall 2024)
+# 🌱 Multimedia & English Education (Fall 2024)
 
 ### 🔸 Course Overview
 
