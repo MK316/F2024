@@ -18,17 +18,17 @@ This graduate-level course explores the integration of multimedia and computatio
 |Wk|Date|Topic(s)|Lecture|Coding / APP|Assignment|
 |--|--|--|--|--|--|
 |W01|Sept. 04|Course overview| 💾 [Syllabus](https://github.com/MK316/F2024/raw/main/Multimedia/data/Syllabus_2024F_Multimedia.pages.pdf), <br>[Lesson01](https://github.com/MK316/F2024/blob/main/Multimedia/Lesson01.ipynb),|[pronouncenames](https://github.com/MK316/F2024/blob/main/Multimedia/PronounceYourName.ipynb)|🌱|
-|W02|Sept. 11|Python Basics I| [Coding4ET]|||
-|W03|Sept. 25|Python Basics II| [Coding4ET]|||
-|W04|Oct. 02|Python Basics III| [Coding4ET]||||
-|W05|Oct. 16|||||
-|W06|Oct. 23|||||
-|W07|Oct. 30|||||
-|W08|Nov. 06|||||
-|W09|Nov. 13|||||
-|W10|Nov. 20|||||
-|W11|Nov. 27|||||
-|W12|Dec. 04|||||
-|W13|Dec. 11|||||
-|W14|Dec. 18|||||
+|W02|Sept. 11|Reading||||
+|W03|Sept. 25|Python Basics I| [Coding4ET]|||
+|W04|Oct. 02|Python Basics II| [Coding4ET]||||
+|W05|Oct. 16|Python Basics III| [Coding4ET]||||
+|W06|Oct. 23|Python Basics IV| [Coding4ET]||||
+|W07|Oct. 30|Midterm||||
+|W08|Nov. 06|Digital tools to share|Presentation#1||MD file|
+|W09|Nov. 13|Gradio: Interactive Applications||||
+|W10|Nov. 20|Language skills & Application designing||||
+|W11|Nov. 27|Multimodality & Application designing||||
+|W12|Dec. 04|Hugging Face: app deployment||||
+|W13|Dec. 11|Multimodality & Language activities||||
+|W14|Dec. 18|Multimodality & Language activities||||
 |W15|TBA| Make-up Class (To be announced)|||||
