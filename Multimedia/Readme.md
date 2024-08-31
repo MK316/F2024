@@ -33,5 +33,6 @@ This graduate-level course explores the integration of multimedia and computatio
 |W14|Dec. 18|Project presentation||||
 |W15|TBA| Make-up Class (To be announced)|||||
 
-[^1]: On the Advantages of Computer Multimedia-aided English Teaching (Guan et al. 2018) 💾 [Download](https://github.com/MK316/F2024/raw/main/Multimedia/data/Guan-etal-2018.pdf)
-[^2]: The Use of Multimedia in Englilsh Teaching (Zhen, 2016) 💾 [Download](https://github.com/MK316/F2024/raw/main/Multimedia/data/Zhen2016.pdf)
+[^1]: Learning Through Technology (Rodney, 2018) 💾 [Download at Padlet](https://padlet.com/mirankim316/Multimedia)
+[^2]: On the Advantages of Computer Multimedia-aided English Teaching (Guan et al. 2018) 💾 [Download at Padlet](https://padlet.com/mirankim316/Multimedia)
+[^3]: The Use of Multimedia in Englilsh Teaching (Zhen, 2016) 💾 [Download at Padlet](https://padlet.com/mirankim316/Multimedia)
