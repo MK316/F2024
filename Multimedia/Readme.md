@@ -24,7 +24,7 @@ This graduate-level course explores the integration of multimedia and computatio
 |W05|Oct. 16|Python Basics III; Explore new Digital tools [3]| [Coding4ET]||||
 |W06|Oct. 23|Python Basics IV| [Coding4ET]||||
 |W07|Oct. 30|**Midterm**||||
-|W08|Nov. 06|Digital tools to share|Presentation#1||MD file|
+|W08|Nov. 06|Digital tools in your lesson plan|Presentation#1||MD file|
 |W09|Nov. 13|Gradio: Interactive Applications||||
 |W10|Nov. 20|Language skills & Application designing||||
 |W11|Nov. 27|Multimodality & Application designing||||
