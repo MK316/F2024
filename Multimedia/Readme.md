@@ -14,7 +14,7 @@ This graduate-level course explores the integration of multimedia and computatio
 
 ## 🔸 Weekly Schedule & Materials
 
-| 📒 [Reading list](https://github.com/MK316/F2024/blob/main/Multimedia/readinglist.md) | 📒 [Coding4ET: Python manual](https://github.com/MK316/Coding4ET/blob/main/README.md)|
+| 📒 [Reading list](https://github.com/MK316/F2024/blob/main/Multimedia/readinglist.md) | 📒 [Coding4ET:](https://github.com/MK316/Coding4ET/blob/main/README.md)  Python manual|
 |Wk|Date|Topic(s)|Lecture|Coding / APP|Assignment|
 |--|--|--|--|--|--|
 |W01|Sept. 04|Course overview| 💾 [Syllabus](https://github.com/MK316/F2024/raw/main/Multimedia/data/Syllabus_2024F_Multimedia.pages.pdf), <br>[Lesson01](https://github.com/MK316/F2024/blob/main/Multimedia/Lesson01.ipynb),|[pronouncenames](https://github.com/MK316/F2024/blob/main/Multimedia/PronounceYourName.ipynb)|🌱|
