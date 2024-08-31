@@ -30,5 +30,5 @@ This graduate-level course explores the integration of multimedia and computatio
 |W11|Nov. 27|Multimodality & Application designing||||
 |W12|Dec. 04|Hugging Face: app deployment||||
 |W13|Dec. 11|Multimodality & Language activities||||
-|W14|Dec. 18|Multimodality & Language activities||||
+|W14|Dec. 18|Project presentation||||
 |W15|TBA| Make-up Class (To be announced)|||||
