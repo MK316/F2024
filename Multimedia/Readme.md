@@ -18,7 +18,7 @@ This graduate-level course explores the integration of multimedia and computatio
 |Wk|Date|Topic(s)|Lecture|Coding / APP|Assignment|
 |--|--|--|--|--|--|
 |W01|Sept. 04|Course overview| 💾 [Syllabus](https://github.com/MK316/F2024/raw/main/Multimedia/data/Syllabus_2024F_Multimedia.pages.pdf), <br>[Lesson01](https://github.com/MK316/F2024/blob/main/Multimedia/Lesson01.ipynb),|[pronouncenames](https://github.com/MK316/F2024/blob/main/Multimedia/PronounceYourName.ipynb)|🌱Readings[1][2]|
-|W02|Sept. 11|Reading articles||||
+|W02|Sept. 11|Reading articles: Multimedia and English Teaching||||
 |W03|Sept. 25|Python Basics I; Explore new Digital tools [1]| [Coding4ET]|||
 |W04|Oct. 02|Python Basics II; Explore new Digital tools [2]| [Coding4ET]||||
 |W05|Oct. 16|Python Basics III; Explore new Digital tools [3]| [Coding4ET]||||
