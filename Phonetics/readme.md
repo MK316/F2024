@@ -6,7 +6,7 @@ This course introduces the fundamental aspects of the English sound system with 
 
 |Week|Date|Chapters|Lecture material|Coding|Assignments|
 |--|--|--|--|--|--|
-|W01|9/3,5|Ch.1|Course overview; Speech production|||
+|W01|9/3,5|Ch.1|Course overview; Speech production|Grouping||
 |W02|9/10,12|Ch.1|Articulation & Acoustics|||
 |W03|9/17*,19|Ch.1&2|Phonology and phonetic transcription|||
 |W04|9/24,26|Ch.2|Phonology and phonetic transcription|||
