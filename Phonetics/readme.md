@@ -4,7 +4,7 @@ This course introduces the fundamental aspects of the English sound system with 
 
 ## Course schedule
 
-|Week|Date|Chapters|Lecture material|Coding|Assignments|
+|Week|Date|Chapters|Lecture material|Coding/APP|Assignments|
 |--|--|--|--|--|--|
 |W01|9/3,5|Ch.1|Course overview; Speech production|[🐳 Grouping](https://mrkim21.github.io/appfolder/grouping.html)||
 |W02|9/10,12|Ch.1|Articulation & Acoustics|||
