@@ -6,21 +6,21 @@ This course introduces the fundamental aspects of the English sound system with 
 
 |Week|Date|Chapters|Lecture material|Coding|Assignments|
 |--|--|--|--|--|--|
-|W01|Ch.1|Course overview; Speech production|||
-|W02|Ch.1||||
-|W03|Ch.1||||
-|W04|Ch.2||||
-|W05|Ch.2||||
-|W06|Ch.3||||
-|W07|Ch.3||||
-|W08|||**Midterm exam**||
-|W09|Ch.3||||
-|W10|Ch.3||||
-|W11|Ch.4||||
-|W12|Ch.4||||
-|W13|Ch.5||||
-|W14|Ch.5||||
-|W15|Ch.5||||
-|W16|||**Final exam**||
+|W01|Sept.3,5|Ch.1|Course overview; Speech production|||
+|W02|9/10,12|Ch.1||||
+|W03||Ch.1||||
+|W04||Ch.2||||
+|W05||Ch.2||||
+|W06||Ch.3||||
+|W07||Ch.3||||
+|W08|||**Midterm exam**|||
+|W09||Ch.3||||
+|W10||Ch.3||||
+|W11||Ch.4||||
+|W12||Ch.4||||
+|W13||Ch.5||||
+|W14||Ch.5||||
+|W15||Ch.5||||
+|W16||**Final exam**|||
 
 ## Assignments and more
