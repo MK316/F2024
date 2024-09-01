@@ -9,7 +9,7 @@ This course introduces the fundamental aspects of the English sound system with 
 |W01|9/3,5|Ch.1|Course overview; Speech production|Grouping||
 |W02|9/10,12|Ch.1|Articulation & Acoustics|||
 |W03|9/17*,19|Ch.1&2|Phonology and phonetic transcription|||
-|W04|9/24,26|Ch.2|Phonology and phonetic transcription|||
+|W04|9/24,26|Ch.2|Phonology and phonetic transcription||Ch.1 EX|
 |W05|10/1,3*|Ch.2|Phonology and phonetic transcription|||
 |W06|10/8,10|Ch.2&3|The consonants of English|||
 |W07|10/15,17|Ch.3|The consonants of English|||
