@@ -60,7 +60,7 @@ Marc Prensky’s 2001 book, "Digital Game-Based Learning," introduced the concep
 ### The Rise of e-Learning
 The broad adoption of online learning environments was captured in D. Randy Garrison’s 2011 publication, "E-Learning in the 21st Century: A Framework for Research and Practice." Though not specific to language learning, the book provided foundational insights into the structure and delivery of e-learning, applicable across various educational disciplines including language education.
 
-+ [Book](https://www.routledge.com/E-Learning-in-the-21st-Century-A-Community-of-Inquiry-Framework-for-Research-and-Practice/Garrison/p/book/9781138953567?srsltid=AfmBOopWVjRn2TrVbiNAjVcD7hsV8IPiO_ZBgvJFBkEBEEXA-fe1iAAw): "E-Learning in the 21st Century: A Framework for Research and Practice" by D. Randy Garrison (2017)
++ [Book](https://www.routledge.com/E-Learning-in-the-21st-Century-A-Community-of-Inquiry-Framework-for-Research-and-Practice/Garrison/p/book/9781138953567?srsltid=AfmBOopWVjRn2TrVbiNAjVcD7hsV8IPiO_ZBgvJFBkEBEEXA-fe1iAAw): "E-Learning in the 21st Century: A Framework for Research and Practice" by D. Randy Garrison (2011, 2017)
 + Overview: While not exclusively about language learning, Garrison's book provides valuable insights into the structure, delivery, and assessment of e-learning, applicable also to language education.
 
 This historical review demonstrates the progression from traditional computer-assisted methods to more integrated and dynamic forms of technology-enhanced language learning, reflecting broader technological advances and changing educational needs.
