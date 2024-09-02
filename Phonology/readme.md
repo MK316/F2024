@@ -17,3 +17,11 @@ _Note that there can be supplementary reading chapters from other books (TBA)._
 Refer to the sample linked to the QR
 
 ![Phonology-Quiz0](https://github.com/user-attachments/assets/71597d16-b057-4e6e-925a-d63e695378bf)
+
++ All quizzes are prepared in order by groups. Please adhere to the following guidelines:
+1. Use Google Forms.
+2. Total 21 points: Prepare 10 cloze & 10 multiple questions from the designated textbook material without altering the content. Use one word for the blank, but exceptionally, two words can also be allowed (in this case, ensure that there are two underscores).
+3. Answers should be marked in advance so that scoring can be automated.
+4. Quiz results should be released to individuals by midnight on the same day.
+5. The quiz score will count towards individual scores; but one group with the highest average score will receive an additional 1 point in each quiz.
+6. The group preparing the quiz must register mirankim316@gmail.com as a collaborator from the start.
