@@ -5,6 +5,7 @@
 The use of multimedia in foreign language teaching has evolved significantly over the decades, paralleling technological advancements and shifts in educational paradigms. Here's a historical overview of how multimedia has been utilized in foreign language teaching:
 
 ![Screenshot 2024-09-02 at 5 13 54 PM](https://github.com/user-attachments/assets/52f546d9-e652-4f6c-b6b3-6a0782d1a575)
+![Screenshot 2024-09-02 at 5 11 35 PM](https://github.com/user-attachments/assets/b59aeea7-0fb2-481f-96a8-f9879ecf05a4)
 _Generated with ChatGPT 4.o_
 
 ### 🎯 The Early Days: Audio-Visual Aids
@@ -23,9 +24,6 @@ With the advent of smartphones and tablets, mobile-assisted language learning (M
 Today, cutting-edge technologies like virtual reality (VR) and augmented reality (AR) are starting to be explored for their potential in language education. These technologies offer immersive experiences where learners can interact with 3D environments or augmented overlays, simulating real-life scenarios or historical settings in which language plays a central role.
 
 Throughout its history, the use of multimedia in language teaching has aimed to make learning more engaging, effective, and aligned with real-world language use. As technologies continue to evolve, so too will the methodologies for employing multimedia in foreign language education, promising ever more immersive and adaptable learning experiences.
-
-![Screenshot 2024-09-02 at 5 11 35 PM](https://github.com/user-attachments/assets/b59aeea7-0fb2-481f-96a8-f9879ecf05a4)
-_Generated with ChatGPT 4.o_
 
 # 2. The development and key literature in technology-assisted language learning methodologies
 
