@@ -21,6 +21,8 @@ Today, cutting-edge technologies like virtual reality (VR) and augmented reality
 
 Throughout its history, the use of multimedia in language teaching has aimed to make learning more engaging, effective, and aligned with real-world language use. As technologies continue to evolve, so too will the methodologies for employing multimedia in foreign language education, promising ever more immersive and adaptable learning experiences.
 
+![Screenshot 2024-09-02 at 5 11 35 PM](https://github.com/user-attachments/assets/b59aeea7-0fb2-481f-96a8-f9879ecf05a4)
+
 # 2. The development and key literature in technology-assisted language learning methodologies
 
 ### 🎯 Early Beginnings: Computer-Assisted Language Learning (CALL)
