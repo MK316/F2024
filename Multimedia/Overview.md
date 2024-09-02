@@ -5,7 +5,7 @@
 The use of multimedia in foreign language teaching has evolved significantly over the decades, paralleling technological advancements and shifts in educational paradigms. Here's a historical overview of how multimedia has been utilized in foreign language teaching:
 
 ![Screenshot 2024-09-02 at 5 13 54 PM](https://github.com/user-attachments/assets/52f546d9-e652-4f6c-b6b3-6a0782d1a575)
-![Screenshot 2024-09-02 at 5 11 35 PM](https://github.com/user-attachments/assets/b59aeea7-0fb2-481f-96a8-f9879ecf05a4)
+![Screenshot 2024-09-02 at 5 11 35 PM](https://github.com/user-attachments/assets/b59aeea7-0fb2-481f-96a8-f9879ecf05a4)  
 _Generated with ChatGPT 4.o_
 
 ### 🎯 The Early Days: Audio-Visual Aids
