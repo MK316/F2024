@@ -4,9 +4,11 @@
 
 The use of multimedia in foreign language teaching has evolved significantly over the decades, paralleling technological advancements and shifts in educational paradigms. Here's a historical overview of how multimedia has been utilized in foreign language teaching:
 
-![Screenshot 2024-09-02 at 5 13 54 PM](https://github.com/user-attachments/assets/52f546d9-e652-4f6c-b6b3-6a0782d1a575)
-![Screenshot 2024-09-02 at 5 11 35 PM](https://github.com/user-attachments/assets/b59aeea7-0fb2-481f-96a8-f9879ecf05a4)  
-![Screenshot 2024-09-02 at 5 39 32 PM](https://github.com/user-attachments/assets/429a5c8e-809a-4475-8ede-24fbe662952a) _Generated with ChatGPT 4.o_
+![Screenshot 2024-09-02 at 5 45 21 PM](https://github.com/user-attachments/assets/15909928-397c-4e15-89a4-9a40fcc6618d)
+![Screenshot 2024-09-02 at 5 13 54 PM](https://github.com/user-attachments/assets/52f546d9-e652-4f6c-b6b3-6a0782d1a575)  
+![Screenshot 2024-09-02 at 5 11 35 PM](https://github.com/user-attachments/assets/b59aeea7-0fb2-481f-96a8-f9879ecf05a4)
+![Screenshot 2024-09-02 at 5 39 32 PM](https://github.com/user-attachments/assets/429a5c8e-809a-4475-8ede-24fbe662952a)   
+_Generated with ChatGPT 4.o_
 
 ### 🎯 The Early Days: Audio-Visual Aids
 The journey began in the mid-20th century with the introduction of audio-visual aids. During the 1950s and 1960s, language labs came into vogue, where reel-to-reel and later cassette tapes were used alongside projectors and television. These tools were pivotal in providing learners with authentic language input and the ability to practice listening and speaking skills in a controlled environment.
