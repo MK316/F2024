@@ -11,6 +11,7 @@
 ## Online Course materials (shared)
 
 + Languag applications (Homepage): [link](https://mrkim21.github.io)
++ New Grouping: [link](https://github.com/MK316/F2024/blob/main/NewGrouping240902.ipynb)
 
 
 
