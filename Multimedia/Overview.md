@@ -1,4 +1,6 @@
-# 📗 Multimedia in Foreign Language Teaching Through the Years: A Casual Look Back
+# 📗 Multimedia in Foreign Language Teaching Through the Years
+
+## 1. A Casual Look Back
 
 The use of multimedia in foreign language teaching has evolved significantly over the decades, paralleling technological advancements and shifts in educational paradigms. Here's a historical overview of how multimedia has been utilized in foreign language teaching:
 
