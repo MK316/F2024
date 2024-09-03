@@ -54,8 +54,9 @@ UNESCO’s 2002 publication, "Information and Communication Technology in Educat
 + Overview: This UNESCO framework is a seminal guide on integrating ICT in educational settings, including language teaching.
   
 ### 🎯 Integrating Modalities: Blended Learning
-As online education grew, blended learning became an increasingly popular model, combining traditional and digital methods. Neumeier's 2015 book, "Blended Learning in Language Teaching: Towards Integrated Strands," presented a comprehensive model for blending face-to-face instruction with online activities, marking a pivotal development in hybrid educational strategies.
+As online education expanded, blended learning emerged as an increasingly popular model that combines traditional and digital methods. Pete Sharma and Barney Barrett's book, Blended Learning: Using Technology in and beyond the Language Classroom, discusses comprehensive strategies for integrating face-to-face instruction with online activities. This work marks a significant development in hybrid educational strategies within language teaching.
 
++ [Book](https://www.amazon.com/s?k=Blended+Learning%3A+Using+Technology+in+and+beyond+the+Language+Classroom&i=stripbooks-intl-ship&crid=KPXF2Y805SFF&sprefix=blended+learning+using+technology+in+and+beyond+the+language+classroom%2Cstripbooks-intl-ship%2C253&ref=nb_sb_noss): _Blended Learning: Using technology in and beyond the language classroom._ by Pete Sharma & Barney Barrett (2010), Hueber Verlag GmbH.
 + [Article](https://www.scirp.org/reference/referencespapers?referenceid=3465837): "A Closer Look at Blended Learning—Parameters for Designing a Blended Learning Environment for Language Teaching and Learning." by Neumeier, P. (2005), ReCALL 17, 163-178.
 + Overview: This book discusses the integration of face-to-face and online language learning, providing a model for effectively designing blended language courses.
 
