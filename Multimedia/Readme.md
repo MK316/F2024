@@ -19,9 +19,9 @@ This graduate-level course explores the integration of multimedia and computatio
 |--|--|--|--|--|--|
 |W01|Sept. 04|Course overview| 💾 [Syllabus](https://github.com/MK316/F2024/raw/main/Multimedia/data/Syllabus_2024F_Multimedia.pages.pdf), [Overview](https://github.com/MK316/F2024/blob/main/Multimedia/Overview.md)|[pronouncenames](https://github.com/MK316/F2024/blob/main/Multimedia/PronounceYourName.ipynb)|🌱 Readings[^1][^2][^3]|
 |W02|Sept. 11|Reading articles: Multimedia and English Teaching|Discussions|[Lesson01](https://github.com/MK316/F2024/blob/main/Multimedia/Lesson01.ipynb),|Lesson 1&2 (Coding4ET)|
-|W03|Sept. 25|Python Basics I; Explore new Digital tools| [Coding4ET]|Lesson 3||
+|W03|Sept. 18*, 25|Python Basics I; Explore new Digital tools| [Coding4ET]|Lesson 3||
 |W04|Oct. 02|Python Basics II; Explore new Digital tools| [Coding4ET]|Lesson 4|||
-|W05|Oct. 16|Python Basics III; Explore new Digital tools| [Coding4ET]|Lesson 5|||
+|W05|Oct. 09*, 16|Python Basics III; Explore new Digital tools| [Coding4ET]|Lesson 5|||
 |W06|Oct. 23|Python Basics IV| [Coding4ET]||||
 |W07|Oct. 30|**Midterm (TBA)**||||
 |W08|Nov. 06|Digital tools in your classroom (Lesson plan|Presentation#1||MD file|
