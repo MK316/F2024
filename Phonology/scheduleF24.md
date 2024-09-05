@@ -1,6 +1,6 @@
 # Phonology Course Schedule
 
-| Date  | Chapter | Reading       | Topic(s)                                | Quiz         | Assignments                    |
+| Date  | Date | Reading       | Topic(s)                                | Quiz         | Assignments                    |
 |-------|---------|---------------|-----------------------------------------|--------------|--------------------------------|
 | W01   | 9/6     | Ch.1 pp.1-13  | Spelling and pronunciation, Phonetics   |       |                                |
 | W02   | 9/13    | Ch.1 pp.16-18;<br>21-25 | Phonetics                       |  Quiz #1     |                                |
