@@ -10,7 +10,7 @@ This course introduces the fundamental aspects of the English sound system with 
 |W02|9/10,12|Ch.1|Articulation & Acoustics||Quiz#1||
 |W03|9/17*,19|Ch.1&2|Phonology and phonetic transcription||Quiz#2|Ch.1 EX|
 |W04|9/24,26|Ch.2|Phonology and phonetic transcription||Quiz#3||
-|W05|10/1,3*|Ch.2|Phonology and phonetic transcription||Quiz#4|Ch.2 EX|
+|W05|10/1*,3*|Ch.2|Phonology and phonetic transcription||Quiz#4|Ch.2 EX|
 |W06|10/8,10|Ch.2&3|The consonants of English||Quiz#5||
 |W07|10/15,17|Ch.3|The consonants of English|||Ch.3 EX|
 |W08|10/22,24||**Midterm exam**||||
