@@ -2,13 +2,13 @@
 
 | Date  | Chapter | Reading       | Topic(s)                                | Quiz         | Assignments                    |
 |-------|---------|---------------|-----------------------------------------|--------------|--------------------------------|
-| W01   | 9/6     | Ch.1 pp.1-13  | Spelling and pronunciation, Phonetics   | Quiz #1      |                                |
-| W02   | 9/13    | Ch.1 pp.16-18;<br>21-25 | Phonetics                       | Quiz #2      |                                |
-| W03   | 9/20    | Ch.2 pp.31-37 | Phonology (Distribution of two sounds;<br>Phonemic analysis; Free variation;<br>Morphophonology) | Quiz #3      |                                |
-| W04   | 9/27    | Ch.2 & Ch.3<br>pp.58-64 | Phonology (Morphophonology);<br>English consonants               | Quiz #4      |                                |
-| W05   | 10/4    |               | TCE questions & Quiz (Online):<br>Group discussions               | Quiz #5      | Assignment #1                 |
-| W06   | 10/11   | Ch.3 pp.64-72 | English consonants                     |              |                                |
-| W07   | 10/18   | Ch. 3 pp.72-74| English consonants                     |              |                                |
+| W01   | 9/6     | Ch.1 pp.1-13  | Spelling and pronunciation, Phonetics   |       |                                |
+| W02   | 9/13    | Ch.1 pp.16-18;<br>21-25 | Phonetics                       |  Quiz #1     |                                |
+| W03   | 9/20    | Ch.2 pp.31-37 | Phonology (Distribution of two sounds;<br>Phonemic analysis; Free variation;<br>Morphophonology) |  Quiz #2     |                                |
+| W04   | 9/27    | Ch.2 & Ch.3<br>pp.58-64 | Phonology (Morphophonology);<br>English consonants               |  Quiz #3     |                                |
+| W05   | 10/4    |               | TCE questions & Quiz (Online):<br>Group discussions               |       | Assignment #1                 |
+| W06   | 10/11   | Ch.3 pp.64-72 | English consonants                     |       Quiz #4       |                                |
+| W07   | 10/18   | Ch. 3 pp.72-74| English consonants                     |      Quiz #5        |                                |
 | W08   | 10/25   |               | Reading period (No class)               |              | 12/13 Make-up                 |
 | W09   | 11/1    |               | Midterm: Covering chapters 1, 2, 3      |              | Summary note submission#1     |
 | W10   | 11/8    | Ch. 3&4<br>pp.79-90 | English vowels                      | Quiz #6      |                                |
