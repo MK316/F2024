@@ -2,8 +2,8 @@
 
 | Date  | Date | Reading       | Topic(s)                                | Quiz         | Assignments                    |
 |-------|---------|---------------|-----------------------------------------|--------------|--------------------------------|
-| W01   | 9/6     | Ch.1 <br>pp.1-13  | Spelling and pronunciation, Phonetics   |       |                                |
-| W02   | 9/13    | Ch.1 <br>pp.16-18;<br>21-25 | Phonetics                       |  Quiz #1     |                                |
+| W01   | 9/6     | Ch.1 <br>pp.1-13  | Spelling and pronunciation, Phonetics (Review)  |       |                                |
+| W02   | 9/13    | Ch.1 <br>pp.16-18;<br>21-25 | Phonetics (Review)                       |  Quiz #1     |                                |
 | W03   | 9/20    | Ch.2 <br>pp.31-37 | Phonology (Distribution of two sounds;<br>Phonemic analysis; Free variation;<br>Morphophonology) |  Quiz #2     |                                |
 | W04   | 9/27    | Ch.2 & Ch.3<br>pp.58-64 | Phonology (Morphophonology);<br>English consonants               |  Quiz #3     |                                |
 | W05   | 10/4    |               | TCE questions & Quiz (Online):<br>Group discussions               |       | Assignment #1                 |
