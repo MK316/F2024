@@ -9,7 +9,7 @@
 | W05   | 10/4    |               | TCE questions & Quiz (Online):<br>Group discussions               |       | Assignment #1                 |
 | W06   | 10/11   | Ch.3 pp.64-72 | English consonants                     |       Quiz #4       |                                |
 | W07   | 10/18   | Ch. 3 pp.72-74| English consonants                     |      Quiz #5        |                                |
-| W08   | 10/25   |               | Reading period (No class)               |              | 12/13 Make-up                 |
+| W08   | 10/25   |               | Reading period (No class)               |              | => 12/13 Make-up                 |
 | W09   | 11/1    |               | Midterm: Covering chapters 1, 2, 3      |              | Summary note submission#1     |
 | W10   | 11/8    | Ch. 3&4<br>pp.79-90 | English vowels                      | Quiz #6      |                                |
 | W11   | 11/15   | Ch. 4 pp.93-97| English vowels                         | Quiz #7      |                                |
