@@ -25,3 +25,7 @@ Refer to the sample linked to the QR
 4. Quiz results should be released to individuals by midnight on the same day.
 5. The quiz score will count towards individual scores; but one group with the highest average score will receive an additional 1 point in each quiz.
 6. The group preparing the quiz must register mirankim316@gmail.com as a collaborator from the start.
+
+## Chapter materials (Slides and activities)
+
++ [Chapter 1](https://github.com/MK316/F2024/blob/main/Phonology/Phonology_Ch01.ipynb)
