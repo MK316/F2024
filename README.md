@@ -12,7 +12,7 @@
 
 + Languag applications (Homepage): [link](https://mrkim21.github.io)
 + New Grouping: [link](https://github.com/MK316/F2024/blob/main/NewGrouping240902.ipynb)
-
++ Transcription sample: [link](https://github.com/MK316/F2024/blob/main/transcription_foreign.ipynb)
 
 
 [^1]: Ladegoged, P. & K. Johnson (2020). A course in phonetics (7th edition), Wadsworth.
