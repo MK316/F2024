@@ -11,7 +11,7 @@ The goals of the course are (1) to give students practical skills to describe En
 _Note that there can be supplementary reading chapters from other books (TBA)._
 + Teachers’ Exams (Phonetics & Phonology): [online database](https://mrkim21.github.io/appfolder/TCE.html)
 
-| [Course Schedule](https://github.com/MK316/F2024/blob/main/Phonology/scheduleF24.md) | [Grouping](https://mrkim21.github.io/appfolder/grouping.html) | 
+| 📌 [Course Schedule](https://github.com/MK316/F2024/blob/main/Phonology/scheduleF24.md) | [Grouping](https://mrkim21.github.io/appfolder/grouping.html) | 
 
 ## 💦 Quiz making
 Refer to the sample linked to the QR
