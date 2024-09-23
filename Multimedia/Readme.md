@@ -19,11 +19,11 @@ This graduate-level course explores the integration of multimedia and computatio
 |--|--|--|--|--|--|
 |W01|Sept. 04|Course overview| 💾 [Syllabus](https://github.com/MK316/F2024/raw/main/Multimedia/data/Syllabus_2024F_Multimedia.pages.pdf), [Overview](https://github.com/MK316/F2024/blob/main/Multimedia/Overview.md)|[pronouncenames](https://github.com/MK316/F2024/blob/main/Multimedia/PronounceYourName.ipynb)|🌱 Readings[^1][^2][^3]|
 |W02|Sept. 11|Reading articles: Multimedia and English Teaching|Discussions|[Lesson01](https://github.com/MK316/F2024/blob/main/Multimedia/Lesson01.ipynb),|[Lesson 2](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson02.md) (Coding4ET)|
-|W03|Sept. 18*, 25 (Videolecture)|Python Basics I; Explore new Digital tools| [Coding4ET]|[Lesson 3](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)|Videos on LMS|
-|W04|Oct. 02|Python Basics II; Explore new Digital tools| [Coding4ET]|[Lesson 3](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)|Videos on LMS|
-|W05|Oct. 09*, 16|Python Basics III; Explore new Digital tools| [Coding4ET]|Lesson 4|[Assign01](https://github.com/MK316/F2024/blob/main/Multimedia/Assign01.md)|
-|W06|Oct. 23|Python Basics IV|Multimodality [Coding4ET]|Lesson 4 & 5||
-|W07|Oct. 30|Python Basics IV|Multimodality [Coding4ET]|Lesson 5||
+|W03|Sept. 18*, 25 (Videolecture)|Python Basics I; Explore new Digital tools| [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Lesson 3](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)|Videos on LMS|
+|W04|Oct. 02|Python Basics II; Explore new Digital tools| [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Lesson 3](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)|Videos on LMS|
+|W05|Oct. 09*, 16|Python Basics III; Explore new Digital tools| [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|Lesson 4|[Assign01](https://github.com/MK316/F2024/blob/main/Multimedia/Assign01.md)|
+|W06|Oct. 23|Python Basics IV|Multimodality [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|Lesson 4 & 5||
+|W07|Oct. 30|Python Basics IV|Multimodality [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|Lesson 5||
 |W08|Nov. 06|**Midterm (TBA)** ||||
 |W09|Nov. 13|Gradio: Interactive Applications||||
 |W10|Nov. 20|Language skills & Application designing||||
