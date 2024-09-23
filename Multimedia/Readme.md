@@ -22,7 +22,7 @@ This graduate-level course explores the integration of multimedia and computatio
 |W03|Sept. 18*, 25 (Videolecture)|Python Basics I; Explore new Digital tools| [Coding4ET]|[Lesson 3](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)||
 |W04|Oct. 02|Python Basics II; Explore new Digital tools| [Coding4ET]|[Lesson 3](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson03.md)|||
 |W05|Oct. 09*, 16|Python Basics III; Explore new Digital tools| [Coding4ET]|Lesson 4|MD file|
-|W06|Oct. 23|Python Basics IV| [Coding4ET]|Lesson5||
+|W06|Oct. 23|Python Basics IV| Multimodality [Coding4ET]|Lesson 5||
 |W07|Oct. 30|**Midterm (TBA)**||||
 |W08|Nov. 06|Digital tools in your classroom (Lesson plan|Presentation#1|||
 |W09|Nov. 13|Gradio: Interactive Applications||||
