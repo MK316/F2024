@@ -13,7 +13,7 @@ This course introduces the fundamental aspects of the English sound system with 
 |W05|10/1*,3*|Ch.2|Phonology and phonetic transcription||||
 |W06|10/8,10|Ch.2&3|The consonants of English||Quiz#1||
 |W07|10/15,17|Ch.3|The consonants of English||||
-|W08|10/22,24|Ch.3|The consonants of English||Quiz#2||
+|W08|10/22,24|Ch.3|The consonants of English||Quiz#2|EX Ch.3|
 |W09|10/29,**31**||**Midterm exam**||||
 |W10|11/5,7|Ch.3|The consonants of English||||
 |W11|11/12,14|Ch.3&4|English vowels||Quiz#3||
