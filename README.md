@@ -9,7 +9,7 @@
 
 
 ## Online Course materials (shared)
-|🐳 [Stopwatch](https://quiet-clock.streamlit.app/) | 🐳 [QR code generator](https://mrkim21.github.io/appfolder/qrcode.html) | 🐳 [Languag Apps](https://mrkim21.github.io) | 🐳 [Grouping](https://mrkim21.github.io/appfolder/grouping.html) |
+|🐳 [Stopwatch](https://stop-watch.streamlit.app/) | 🐳 [QR code generator](https://mrkim21.github.io/appfolder/qrcode.html) | 🐳 [Languag Apps](https://mrkim21.github.io) | 🐳 [Grouping](https://mrkim21.github.io/appfolder/grouping.html) |
 + New Grouping: [link](https://github.com/MK316/F2024/blob/main/NewGrouping240902.ipynb)
 + Transcription sample: [link](https://github.com/MK316/F2024/blob/main/transcription_foreign.ipynb)
 
