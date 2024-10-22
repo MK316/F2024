@@ -25,7 +25,7 @@ This graduate-level course explores the integration of multimedia and computatio
 |W06|Oct. 23|Python Basics IV|Multimodality [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|Lesson 4 & 5||
 |W07|Oct. 30 > Nov.2|Python Basics IV|Multimodality [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|Lesson 5||
 |W08|Nov. 06|Gradio: Interactive Applications|Idea to share: App design|||
-|W09|Nov. 13 |**Midterm (TBA)**||||
+|W09|Nov. 13(11/9?) |**Midterm (TBA)**||||
 |W10|Nov. 20|Language skills & Application designing||||
 |W11|Nov. 27|Multimodality & Application designing||||
 |W12|Dec. 04|Hugging Face: app deployment||||
