@@ -28,7 +28,7 @@ This graduate-level course explores the integration of multimedia and computatio
 |W09|Nov. 06|Gradio: Interactive Applications|Idea to share: App design|[Lesson 5](https://github.com/MK316/F2024/blob/main/Multimedia/multimodality.ipynb)|[EX5](https://github.com/MK316/Coding4ET/blob/main/Multimodality_practice.ipynb)|
 |W10|Nov. 13(8PM, 11/10, Sun) |**Midterm (TBA)**||||
 |W11|Nov. 20|Language skills & Application designing|App design discussion|||
-|W12|Nov. 27|Multimodality & Application designing|Verb tense, plural nouns|[App sample](https://github.com/MK316/F2024/blob/main/Multimedia/App_design1127.ipynb)||
+|W12|Nov. 27|Multimodality & Application designing|Gradio: Verb tense, plural nouns|[App sample](https://github.com/MK316/F2024/blob/main/Multimedia/App_design1127.ipynb)||
 |W13|Dec. 04|Hugging Face: app deployment||||
 |W14|Dec. 11|Multimodality & Language activities||||
 |W15|Dec. 18|Project presentation||||
