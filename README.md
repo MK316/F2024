@@ -1,5 +1,7 @@
 # 🌿 Course schedule (Fall 2024)
 
+![img](https://github.com/MK316/F2024/raw/main/qr_NounSmart_irregulars.png)
+
 ||Course|Credit|Level|Schedule|
 |--|--|--|--|--|
 |1| [English Phonetics](https://github.com/MK316/F2024/blob/main/Phonetics/readme.md) [^1]|3|2nd, UG| Tuesdays & Thursdays |
