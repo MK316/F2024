@@ -1,6 +1,5 @@
 # 🌿 Course schedule (Fall 2024)
 
-![img](https://github.com/MK316/F2024/raw/main/qr_NounSmart_irregulars.png)
 
 ||Course|Credit|Level|Schedule|
 |--|--|--|--|--|
