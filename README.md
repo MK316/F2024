@@ -3,7 +3,7 @@
 
 ||Course|Credit|Level|Schedule|
 |--|--|--|--|--|
-|1| [English Phonetics](https://github.com/MK316/F2024/blob/main/Phonetics/readme.md) [^1]|3|2nd, UG| Tuesdays & Thursdays |
+|1| [English Phonetics](https://phonetics.streamlit.app/) [^1]|3|2nd, UG| Tuesdays & Thursdays |
 |2| [English Phonology](https://github.com/MK316/F2024/blob/main/Phonology/readme.md) [^2]|3|3rd, UG| Fridays |
 |3| [Phonology & English Education](https://github.com/MK316/F2024/blob/main/EngEdu/Readme.md) |3| Graduate | Tuesdays & Thursdays |
 |4| [Multimedia & English Education](https://github.com/MK316/F2024/blob/main/Multimedia/Readme.md) |3| Graduate | Wednesdays |
